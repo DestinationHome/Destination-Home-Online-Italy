@@ -26,7 +26,7 @@ Benvenuti nella guida ufficiale su come gli utenti possono rivivere [PlayStation
 ![165727137-22142bb8-ff30-473c-afde-3e71f6fbdf8e](https://user-images.githubusercontent.com/67494727/169348277-363919bc-43c7-4584-8166-32331d46abbd.png)
 
 
-55) <h1 align="center">📖 Indice | Destination Home Online Wiki 📖</h1>
+<h1 align="center">📖 Indice | Destination Home Online Wiki 📖</h1>
 
 - NEED TO CONVERT SHIELD.IO TAGS TO Italian
 
@@ -77,7 +77,7 @@ https://user-images.githubusercontent.com/67494727/168451055-be2e97d4-d0c6-4596-
 
 Per quanto riguarda i minigiochi, sfortunatamente per certi spazi, non tutti i minigiochi funzioneranno in quanto richiedono del tempo/attenzione extra da parte del team di Destination Home per rendere operativi tali servizi in un ambiente stabile. Per il lancio della nostra beta, ho creato un semplice [elenco di compatibilità](https://github.com/DestinationHome/Destination-Home-Online/blob/main/.github/WIKI/minigame_compatibility_beta.csv) che documenta in ordine alfabetico (dalla A alla Z) quali minigiochi funzionano completamente o meno.
 
-🕷️Hai percaso notato dei bug critici in PlayStation®Home? Ecco come puoi segnalarli al team di Destination Home!
+#🕷️Hai percaso notato dei bug critici in PlayStation®Home? Ecco come puoi segnalarli al team di Destination Home!
 
 - Come sempre accade in qualsiasi grande progetto, anche le migliori applicazioni sono note per avere bug e PlayStation Home online non fa eccezione. Detto questo, Destination Home prende in seria considerazione tutto ciò che riguarda la stabilità della nostra comunità. Se vedi dei **bug critici** crea un ticket [qui](https://github.com/DestinationHome/Destination-Home-Online/issues) sul repository ufficiale di Destination Home Online. Al fine di correggere rapidamente i bug, chiediamo agli utenti di fornire quanta più documentazione possibile. Per esempio:
 
