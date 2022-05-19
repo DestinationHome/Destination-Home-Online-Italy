@@ -1,10 +1,8 @@
-# Destination-Home-Online-Italy
-
 # <h1 align="center">**Destination Home Online × Bentornati su PlayStation®Home! | WIP**</h1>
 
 Siamo un team che si dedica al ripristino dell'originale funzionalità online di [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home), al fine di preservarne la sua storia videoludica nonchè conoscenza. Dona [qui](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/) i tuoi dati della cache PlayStation®Home!
 
-# Supporto multilingue per questo articolo | WIP :
+# Supporto multilingue per questo articolo | WIP:
 
 - Per leggere questo README in altre lingue, ecco qui le seguenti lingue supportate che sono state tradotte dai nostri straordinari collaboratori/moderatori:
 
