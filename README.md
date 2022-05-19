@@ -1,5 +1,8 @@
 # <h1 align="center">**Destination Home Online × Bentornati su PlayStation®Home! | WIP**</h1>
 
+![NPIA00005_screenshot_2022_05_19_16_47_55](https://user-images.githubusercontent.com/67494727/169421198-565be196-ff3d-42b8-909d-97b3cdf15c46.png)
+
+
 Siamo un team che si dedica al ripristino dell'originale funzionalità online di [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home), al fine di preservarne la sua storia videoludica nonchè conoscenza. Dona [qui](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/) i tuoi dati della cache PlayStation®Home!
 
 # Supporto multilingue per questo articolo | WIP:
